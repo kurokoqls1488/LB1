@@ -16,7 +16,7 @@ namespace LB1
 
                 ApplicationConfiguration.Initialize();
             Application.Run(new FormMain());
-            //Ильин Данииииил
+            //Ильин Даниииил
         }
     }
 }
